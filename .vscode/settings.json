@@ -1,0 +1,17 @@
+{
+  "cSpell.words": [
+    "howdee",
+    "ice",
+    "icet",
+    "ipaddress",
+    "kwargs",
+    "prflx",
+    "raddr",
+    "rport",
+    "srflx",
+    "tcptype",
+    "werift",
+    "werift ice"
+  ],
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
